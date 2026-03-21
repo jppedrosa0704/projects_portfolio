@@ -27,7 +27,7 @@ while True:
         else:
             for t in tarefas:
                 print(t)
-        input('\nPress enter to exit...')  # Pausa para o usuário ver as tarefas
+        input('\nPress any key to exitt...')  # Pausa para o usuário ver as tarefas
 
     elif opcao == 'desfazer':
         # Remove a última tarefa adicionada e guarda para refazer
@@ -38,10 +38,10 @@ while True:
             print('TAREFAS: ')
             for t in tarefas:
                 print(t)
-            input('\nPress enter to exit...')
+            input('\nPress any key to exit...')
         else:
             print('nada para desfazer.')
-            input('\nPress enter to exit...')
+            input('\nPress any key to exit...')
 
     elif opcao == 'refazer':
         # Restaura a última tarefa desfeita
@@ -52,10 +52,10 @@ while True:
             print('TAREFAS: ')
             for t in tarefas:
                 print(t)
-            input('\nPress enter to exit...')
+            input('\nPress any key to exit...')
         else:
             print('Nada para refazer.')
-            input('\nPress enter to exit...')
+            input('\nPress any key to exit...')
 
     elif opcao == 'sair':
         # Encerra o loop principal
@@ -64,7 +64,7 @@ while True:
         # Adiciona uma nova tarefa
         tarefas.append(opcao)
         print(f'Tarefa adicionada: {opcao}')
-        input('\nPress enter to exit...')
+        input('\nPress any key to exit...')
 
 # Exibe a lista final de tarefas ao sair
 print(tarefas)
