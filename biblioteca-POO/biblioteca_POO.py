@@ -100,6 +100,7 @@ class Autor:
                     break
             except ValueError:
                 print('opção inválida')
+                continue
         
     #--------------------------------------#
     #         SALVA LISTA EM JSON          #
