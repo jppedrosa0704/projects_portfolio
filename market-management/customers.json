@@ -1,0 +1,82 @@
+[
+    {
+        "name": "John Miller",
+        "age": 34,
+        "customer_id": "C001"
+    },
+    {
+        "name": "Emily Carter",
+        "age": 28,
+        "customer_id": "C002"
+    },
+    {
+        "name": "Michael Johnson",
+        "age": 41,
+        "customer_id": "C003"
+    },
+    {
+        "name": "Sarah Thompson",
+        "age": 22,
+        "customer_id": "C004"
+    },
+    {
+        "name": "David Wilson",
+        "age": 37,
+        "customer_id": "C005"
+    },
+    {
+        "name": "Olivia Brown",
+        "age": 30,
+        "customer_id": "C006"
+    },
+    {
+        "name": "James Anderson",
+        "age": 45,
+        "customer_id": "C007"
+    },
+    {
+        "name": "Sophia Martinez",
+        "age": 26,
+        "customer_id": "C008"
+    },
+    {
+        "name": "Daniel Harris",
+        "age": 33,
+        "customer_id": "C009"
+    },
+    {
+        "name": "Ava Clark",
+        "age": 29,
+        "customer_id": "C010"
+    },
+    {
+        "name": "William Lewis",
+        "age": 50,
+        "customer_id": "C011"
+    },
+    {
+        "name": "Isabella Walker",
+        "age": 24,
+        "customer_id": "C012"
+    },
+    {
+        "name": "Benjamin Hall",
+        "age": 39,
+        "customer_id": "C013"
+    },
+    {
+        "name": "Mia Young",
+        "age": 21,
+        "customer_id": "C014"
+    },
+    {
+        "name": "Henry King",
+        "age": 32,
+        "customer_id": "C015"
+    },
+    {
+        "name": "Anabela Winston",
+        "age": 32,
+        "customer_id": "C016"
+    }
+]

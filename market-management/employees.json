@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Laura Bennett",
+        "age": 29,
+        "role": "Cashier"
+    },
+    {
+        "name": "Richard Collins",
+        "age": 41,
+        "role": "Manager"
+    },
+    {
+        "name": "Patricia Howard",
+        "age": 33,
+        "role": "Stock Clerk"
+    },
+    {
+        "name": "Andrew Foster",
+        "age": 26,
+        "role": "Cashier"
+    },
+    {
+        "name": "Fernanda Brooks",
+        "age": 38,
+        "role": "Supervisor"
+    },
+    {
+        "name": "John Mitchell",
+        "age": 45,
+        "role": "Security"
+    },
+    {
+        "name": "Mariana Turner",
+        "age": 24,
+        "role": "Customer Service"
+    },
+    {
+        "name": "Edward Harris",
+        "age": 31,
+        "role": "Stock Clerk"
+    },
+    {
+        "name": "Rose Florida",
+        "age": 27,
+        "role": "Cashier"
+    }
+]

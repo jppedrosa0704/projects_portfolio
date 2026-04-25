@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Apple",
+        "price": 0.6,
+        "stock_quantity": 43
+    },
+    {
+        "name": "Banana",
+        "price": 0.4,
+        "stock_quantity": 43
+    },
+    {
+        "name": "Bread",
+        "price": 1.2,
+        "stock_quantity": 20
+    },
+    {
+        "name": "Butter",
+        "price": 3.1,
+        "stock_quantity": 14
+    },
+    {
+        "name": "Cereal",
+        "price": 3.9,
+        "stock_quantity": 13
+    },
+    {
+        "name": "Cheddar Cheese",
+        "price": 4.5,
+        "stock_quantity": 10
+    },
+    {
+        "name": "Chicken Breast",
+        "price": 6.8,
+        "stock_quantity": 11
+    },
+    {
+        "name": "Chips",
+        "price": 1.7,
+        "stock_quantity": 35
+    },
+    {
+        "name": "Chocolate Bar",
+        "price": 1.0,
+        "stock_quantity": 50
+    },
+    {
+        "name": "Coffee",
+        "price": 5.5,
+        "stock_quantity": 14
+    },
+    {
+        "name": "Eggs",
+        "price": 2.8,
+        "stock_quantity": 14
+    },
+    {
+        "name": "Frozen Pizza",
+        "price": 4.8,
+        "stock_quantity": 7
+    },
+    {
+        "name": "Ground Beef",
+        "price": 7.5,
+        "stock_quantity": 12
+    },
+    {
+        "name": "Ice Cream",
+        "price": 3.5,
+        "stock_quantity": 16
+    },
+    {
+        "name": "Laundry Detergent",
+        "price": 7.9,
+        "stock_quantity": 6
+    },
+    {
+        "name": "Milk",
+        "price": 1.5,
+        "stock_quantity": 11
+    },
+    {
+        "name": "Olive Oil",
+        "price": 6.2,
+        "stock_quantity": 10
+    },
+    {
+        "name": "Orange Juice",
+        "price": 2.9,
+        "stock_quantity": 17
+    },
+    {
+        "name": "Pasta",
+        "price": 1.2,
+        "stock_quantity": 28
+    },
+    {
+        "name": "Rice",
+        "price": 1.8,
+        "stock_quantity": 22
+    },
+    {
+        "name": "Salt",
+        "price": 0.8,
+        "stock_quantity": 29
+    },
+    {
+        "name": "Shampoo",
+        "price": 4.2,
+        "stock_quantity": 14
+    },
+    {
+        "name": "Soap",
+        "price": 1.0,
+        "stock_quantity": 32
+    },
+    {
+        "name": "Soda Can",
+        "price": 0.9,
+        "stock_quantity": 46
+    },
+    {
+        "name": "Sugar",
+        "price": 1.1,
+        "stock_quantity": 26
+    },
+    {
+        "name": "Tea",
+        "price": 2.2,
+        "stock_quantity": 16
+    },
+    {
+        "name": "Tomato Sauce",
+        "price": 1.5,
+        "stock_quantity": 21
+    },
+    {
+        "name": "Toothpaste",
+        "price": 2.3,
+        "stock_quantity": 20
+    },
+    {
+        "name": "Water Bottle",
+        "price": 0.5,
+        "stock_quantity": 55
+    },
+    {
+        "name": "Yogurt",
+        "price": 0.9,
+        "stock_quantity": 24
+    }
+]
