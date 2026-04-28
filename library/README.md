@@ -26,4 +26,5 @@ Execute o script principal:
 
 Bash
 python library_system.py
+
 Utilize o menu numérico para navegar entre as funções de cadastro, listagem, busca ou empréstimo.
