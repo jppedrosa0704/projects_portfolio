@@ -1,66 +1,38 @@
-🚀 Hello, I'm João | Python Developer Portfolio
-Bem-vindo ao meu portfólio de desenvolvimento. Aqui encontrará uma coleção de projetos que demonstram a minha transição de carreira para a tecnologia, focados em Python, Programação Orientada a Objetos (POO) e Engenharia de Software.
+# 🚀 Portfolio de Projetos - Software Development
 
-🛠️ Stack Tecnológica
-📂 Projetos em Destaque
-Abaixo estão os projetos que desenvolvi, organizados por complexidade e conceitos aplicados:
+Olá! Sou o João, aspirante a Programador Python atualmente baseado em Portugal. Este repositório reúne os projetos práticos desenvolvidos durante a minha formação, focados em **Programação Orientada a Objetos (POO)** e automação.
 
-1. 🛒 Market Management System
-Conceitos: Regras de negócio, controlo de inventário e gestão de vendas.
+---
 
-Sistema completo com alerta de stock baixo e relatórios de faturação.
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagem:** Python (POO, Automação, Scripting)
+* **Base de Dados:** JSON, MySQL
+* **Ferramentas:** Git, GitHub, VS Code
 
-Persistência de dados dupla (Produtos e Vendas) em JSON.
+---
 
-2. 🏢 Corporate HR System
-Conceitos: POO Avançada, Agregação e Composição.
+## 📂 Projetos em Destaque
 
-Modelação de relações entre Empresa, Departamentos e Funcionários.
+Abaixo estão os projetos organizados por categorias. Clique no título para explorar cada pasta:
 
-Validação rigorosa de tipos de objetos e encapsulamento de dados.
+### 🛒 Gestão Comercial e Inventário
+* **[Market Management System](./market-management)**: Sistema completo de supermercado com registo de vendas e gestão de funcionários.
+* **[Inventory System](./inventory)**: Controlo de stock com alertas de reposição e relatórios.
 
-3. 📚 Advanced Library V3
-Conceitos: Serialização de Objetos e Relacionamentos.
+### 🏢 Gestão Corporativa e RH
+* **[Sistema de Funcionários](./sistema-funcionarios)**: Modelação de RH utilizando conceitos de Agregação e Composição entre Empresa e Colaboradores.
 
-Gestão relacional entre Autores, Livros e Editoras.
+### 📚 Sistemas de Bibliotecas (Evolução POO)
+* **[Biblioteca V3](./bibliotecaV3)**: Versão avançada com relacionamentos complexos entre Autores, Livros e Editoras.
+* **[Biblioteca POO](./biblioteca-POO)**: Implementação focada nos pilares da Programação Orientada a Objetos.
+* **[Library Basic](./library)**: Sistema inicial de gestão de acervo e empréstimos.
 
-Sistema de "reidratação" de dados (conversão JSON -> Objetos Python).
+### ⚙️ Utilitários e Algoritmos
+* **[Financial System](./financial_system)**: Aplicação para controlo de fluxos financeiros, receitas e despesas.
+* **[Gerenciador de Tarefas](./gerenciador_de_tarefas)**: Implementação de lógica de **Undo/Redo** utilizando estruturas de dados.
 
-4. 📝 Task Manager
-Conceitos: Algoritmos de Undo/Redo e Stacks (LIFO).
+---
 
-Gestão de tarefas com lógica de "Desfazer" e "Refazer".
-
-Manipulação eficiente de pilhas de memória.
-
-5. 💰 Financial Management
-Conceitos: Lógica Matemática e Formatação de Dados.
-
-Cálculo de margens de lucro, impostos e balanço financeiro.
-
-Focado em precisão decimal e UX via CLI.
-
-6. 📖 Library Management (Basic)
-Conceitos: Dicionários Aninhados e Estados.
-
-Sistema de empréstimo e devolução de livros.
-
-Controlo de status dinâmico (available / borrowed).
-
-📈 Evolução Técnica
-A minha jornada de aprendizagem seguiu uma linha lógica de crescimento:
-
-Fundamentos: Lógica de programação e estruturas de dados simples.
-
-Persistência: Manipulação de ficheiros externos (JSON).
-
-Arquitetura: Transição para Programação Orientada a Objetos (Classes e Métodos).
-
-Engenharia: Padrões de projeto (Undo/Redo) e integridade de dados.
-
-📫 Contacto
-LinkedIn: www.linkedin.com/in/joão-paulo-pedrosa-soares-6214a828a
-
-Email: jp-pedrosa@hotmail.com
-
-Localização: Porto, Portugal 🇵🇹
+## 📫 Contacto
+* **LinkedIn:** www.linkedin.com/in/joão-paulo-pedrosa-soares-6214a828a
+* **Email:** jp-pedrosa@hotmail.com
